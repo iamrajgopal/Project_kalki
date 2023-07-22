@@ -1,0 +1,2 @@
+Remuniration:10cr;
+Days Of shoot :10Days;
